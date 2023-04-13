@@ -18,7 +18,7 @@ Here are some of the projects I'm currently working on:
 - [Project 2] - A machine learning project that predicts the likelihood of customer churn for a telecom company.
 - [Project 3] - A data visualization project that illustrates the impact of social media on consumer trends.
 
-#### 🚀 Skills
+## 🚀 Skills
 - **Programming Languages** -		        Python, R, SQL, PL/SQL, Java, C, C++
 - **Machine Learning Frameworks** - 		NumPy, Pandas, SciPy, Scikit learn, PyTorch, Seaborn, Matplotlib
 - **Web Technologies** - 			            AngularJS, ReactJS, JavaScript, HTML, CSS, Bootstrap
