@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Shivani, a data science enthusiast with a passion for learning and exploring new technologies. Although I don't have any professional experience in the field, I'm constantly working on projects to enhance my skills and gain practical knowledge in the area of data science.
+I'm Shivani, a data science enthusiast with a passion for learning and exploring new technologies. Although I don't have much of professional experience in the field, as I am transitioning from software to data, I'm constantly working on projects to enhance my skills and gain practical knowledge in the area of data science.
 
 ## 🌱 Currently Learning
 
