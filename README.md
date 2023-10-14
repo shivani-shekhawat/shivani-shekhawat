@@ -16,7 +16,7 @@ Here are some of the projects I'm currently working on:
 
 - [Project 1] - A data analysis project that explores the relationship between weather patterns and consumer behavior.
 - [Project 2] - A machine learning project that predicts the likelihood of customer churn for a telecom company.
-- [Project 3] - A data visualization project that illustrates the impact of social media on consumer trends.
+- [Project 3] - A data visualization project using Tableau and PowerBi that illustrated the crime rate in LA.
 
 ## 🚀 Skills
 - **Programming Languages** -		        Python, R, SQL, PL/SQL, Java, C, C++
