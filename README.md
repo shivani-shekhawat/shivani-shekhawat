@@ -19,13 +19,13 @@ Here are some of the projects I'm currently working on:
 - [Project 3] - A data visualization project using Tableau and PowerBi that illustrated the crime rate in LA.
 
 ## 🚀 Skills
-- **Programming Languages** -		        Python, R, SQL, PL/SQL, Java, C, C++
+- **Programming Languages** -		        Python, R, SQL, PL/SQL, Java
 - **Machine Learning Frameworks** - 		NumPy, Pandas, SciPy, Scikit learn, PyTorch, Seaborn, Matplotlib
 - **Web Technologies** - 			            AngularJS, ReactJS, JavaScript, HTML, CSS, Bootstrap
 - **Data Integration and BI Tools** - 	Tableau, MS PowerBI, Microsoft Office, MS Excel (Pivot | vLookup)
 - **Database** -  				              MS SQL Server, MongoDB, MYSQL, Teradata
 - **Design and Simulation Software** - 	Jupyter Notebook, NetBeans, Eclipse, Visual Studio, ER Studio 
-- **Miscellaneous** -  				          DevOps, CRM, Jira, Kibana, Confluence, GitHub, Blockchain, Chatbot
+- **Miscellaneous** -  				          DevOps, CRM, Jira, Kibana, Confluence, GitHub, Chatbot
 
 ## 📫 Contact Me
 
