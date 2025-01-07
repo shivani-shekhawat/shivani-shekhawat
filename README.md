@@ -12,16 +12,15 @@ I'm always interested in collaborating on projects related to data science, part
 
 ## 🔭 Projects
 
-Here are some of the projects I'm currently working on:
+Here are some of the projects I have worked on:
 
 - [Project 1] - A data analysis project that explores the relationship between weather patterns and consumer behavior.
 - [Project 2] - A machine learning project that predicts the likelihood of customer churn for a telecom company.
 - [Project 3] - A data visualization project using Tableau and PowerBi that illustrated the crime rate in LA.
 
 ## 🚀 Skills
-- **Programming Languages** -		        Python, R, SQL, PL/SQL, Java
+- **Programming Languages** -		        Python, SQL, PL/SQL
 - **Machine Learning Frameworks** - 		NumPy, Pandas, SciPy, Scikit learn, PyTorch, Seaborn, Matplotlib
-- **Web Technologies** - 			            AngularJS, ReactJS, JavaScript, HTML, CSS, Bootstrap
 - **Data Integration and BI Tools** - 	Tableau, MS PowerBI, Microsoft Office, MS Excel (Pivot | vLookup)
 - **Database** -  				              MS SQL Server, MongoDB, MYSQL, Teradata
 - **Design and Simulation Software** - 	Jupyter Notebook, NetBeans, Eclipse, Visual Studio, ER Studio 
