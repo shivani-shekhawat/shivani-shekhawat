@@ -24,7 +24,7 @@ Here are some of the projects I have worked on:
 - **Data Integration and BI Tools** - 	Tableau, MS PowerBI, Microsoft Office, MS Excel (Pivot | vLookup)
 - **Database** -  				              MS SQL Server, MongoDB, MYSQL, Teradata
 - **Design and Simulation Software** - 	Jupyter Notebook, NetBeans, Eclipse, Visual Studio, ER Studio 
-- **Miscellaneous** -  				          DevOps, CRM, Jira, Kibana, Confluence, GitHub, Chatbot
+- **Miscellaneous** -  				          CRM, Jira, Kibana, Confluence, GitHub, Chatbot
 
 ## 📫 Contact Me
 
