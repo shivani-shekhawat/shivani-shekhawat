@@ -4,7 +4,7 @@ I'm Shivani, a data science enthusiast with a passion for learning and exploring
 
 ## 🌱 Currently Learning
 
-I'm currently learning the fundamentals of data science, including statistics, machine learning, and data visualization. I'm also exploring programming languages like Python and R, as well as tools and platforms like Jupyter Notebook, Pandas, and Tableau.
+I am currently delving into Large Language Models (LLMs), building AI-driven projects, and exploring cutting-edge advancements in artificial intelligence and machine learning. My focus includes understanding model architectures, fine-tuning techniques, and practical applications of AI in real-world scenarios
 
 ## 🤝 Open to Collaborate
 
