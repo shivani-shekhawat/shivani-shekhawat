@@ -99,6 +99,7 @@
 - Data Governance | Metadata Management | Data Auditing  
 - Client Success | Pre & Post Sales Analysis | Stakeholder Communication  
 
+<!--
 ---
 
 ### 📈 GitHub Stats
@@ -110,7 +111,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivani-shekhawat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
-
+-->
 ---
 
 ### 👀 Visitor Badge
